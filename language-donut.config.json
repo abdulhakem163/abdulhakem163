@@ -1,0 +1,12 @@
+{
+  "owner": "abdulhakem163",
+  "include_forks": false,
+  "include_archived": true,
+  "max_named_languages": 9,
+  "chart": {
+    "show_bars": true,
+    "show_center_label": true,
+    "donut_width": 22,
+    "donut_radius": 72
+  }
+}
