@@ -73,21 +73,15 @@ React.js • Laravel 11 • Flutter • MySQL • Redis • Firebase
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=abdulhakem163&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="70%"
+  />
+</p>
 <div align="center">
 
 ### 💙 Code • Create • Innovate
