@@ -28,7 +28,7 @@ Building modern, responsive, and user-friendly web applications.
 <h3 align="center">💻 Frontend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,mui&theme=dark" />
 </p>
 
 <h3 align="center">🗄️ Additional Technologies</h3>
