@@ -50,6 +50,44 @@ Building modern, responsive, and user-friendly web applications.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏗️ Renova Platform — Construction & Renovation System
+
+A team-based, multi-role platform connecting Customers, Contractors, Engineers, and Administrators to manage construction and renovation projects.
+
+**My Contribution:** Frontend Development — React Admin Dashboard.
+
+**Key Features:**
+- Multi-role management and access control.
+- Contractor and engineer registration approval.
+- Site visit assignment and management.
+- Construction forms and payment management.
+- Complaints and project monitoring.
+- Platform analytics dashboard.
+
+**Technologies:**
+React.js • Laravel 11 • Flutter • MySQL • Redis • Firebase
+
+🔗 **[View Repository](https://github.com/karamlk/renova)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+
+</div>
+
+---
 <div align="center">
 
 ### 💙 Code • Create • Innovate
