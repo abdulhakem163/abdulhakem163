@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="./banner.png" width="100%" alt="Abdul Hakem - Frontend Developer" />
 
@@ -26,18 +25,20 @@ Building modern, responsive, and user-friendly web applications.
 
 ## 🛠️ Tech Stack
 
-
 <h3 align="center">💻 Frontend Development</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mui&theme=dark" />
 </p>
 
-<h3 align="center">🗄️ Backend & Database</h3>
+<h3 align="center">🗄️ Additional Technologies</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
 </p>
 
 <h3 align="center">⚙️ Tools & Technologies</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
 </p>
@@ -52,24 +53,30 @@ Building modern, responsive, and user-friendly web applications.
 
 ## 🚀 Featured Projects
 
-### 🏗️ Renova Platform — Construction & Renovation System
+### 🏗️ Renova Platform — Construction & Renovation Management System
 
-A team-based, multi-role platform connecting Customers, Contractors, Engineers, and Administrators to manage construction and renovation projects.
+Renova is a collaborative, multi-role platform designed to streamline construction and renovation workflows by connecting customers, contractors, engineers, and administrators.
 
-**My Contribution:** Frontend Development — React Admin Dashboard.
+The platform provides tools for managing renovation requests, coordinating site inspections, monitoring construction progress, handling payments, and overseeing project operations.
 
-**Key Features:**
+**My Contribution — React Admin Dashboard**
+
+I contributed to the frontend development of the administrative dashboard using React.js, focusing on building user interfaces for platform management and administrative workflows.
+
+**Key Platform Features:**
 - Multi-role management and access control.
-- Contractor and engineer registration approval.
-- Site visit assignment and management.
-- Construction forms and payment management.
-- Complaints and project monitoring.
-- Platform analytics dashboard.
+- Customer requests and contractor management.
+- Engineer registration and approval workflows.
+- Site inspection scheduling and management.
+- Construction forms and payment tracking.
+- Complaint management and project monitoring.
+- Administrative analytics and dashboards.
 
 **Technologies:**
+
 React.js • Laravel 11 • Flutter • MySQL • Redis • Firebase
 
-🔗 **[View Repository](https://github.com/karamlk/renova)**
+🔗 **[View Project Repository](https://github.com/karamlk/renova)**
 
 ---
 
@@ -91,13 +98,16 @@ React.js • Laravel 11 • Flutter • MySQL • Redis • Firebase
   <a href="mailto:abodi.alssaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/abdulhakem">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/abdulhakem163">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <div align="center">
 
 ### 💙 Code • Create • Innovate
