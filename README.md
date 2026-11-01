@@ -34,7 +34,7 @@ Building modern, responsive, and user-friendly web applications.
 <h3 align="center">🗄️ Additional Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,npm&theme=dark" />
 </p>
 
 <h3 align="center">⚙️ Tools & Technologies</h3>
